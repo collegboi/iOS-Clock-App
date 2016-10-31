@@ -1,1 +1,2 @@
-# iOS-Clock-App
+# Swift-Circle-
+Simple clock app

@@ -2,4 +2,4 @@
 Simple clock app
 
 
-![alt tag](https://github.com/collegboi/iOS-Clock-App/blob/master/circleclock.jpg)
+![alt tag](https://github.com/collegboi/iOS-Clock-App/blob/master/clocktime.jpg)
